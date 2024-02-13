@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Integers-in-C-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbb74e9a8f3019b949c431375c5367778ed34042")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Integers-in-C-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Integers-in-C-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
